@@ -17,9 +17,9 @@
 ---
 
 ## 🧑‍💻 About Me
-Hey, I'm **Uttam** — a passionate **Senior Azure Cloud Engineer | AKS | Kubernetes | .NET | ** with **more than decade** of experience in IT. I build scalable systems, consult on cloud architecture, and write about real-life problems and solutions.
+Hey, I'm **Uttam** — a passionate **Senior Azure Cloud Engineer** with **more than decade** of experience in IT. I build scalable systems, consult on cloud architecture, and write about real-life problems and solutions.
 
-- 💬 Areas: **Azure, Dveops, · C# · .NET · React · Angular · AI**  
+- 💬 Areas: **Azure, AKS, Dveops, · C# · .NET · React · Angular · AI**  
 - 🌐 Website: https://iamuttamchaturvedi.substack.com/  
 - 🧾 Articles: https://www.c-sharpcorner.com/myaccount/authorcreatedarticledetails.aspx?Path=registration&iscomplete=true  
 - ✍️ Medium: https://medium.com/@uttamchaturvedi
