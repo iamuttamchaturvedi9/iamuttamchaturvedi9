@@ -31,12 +31,6 @@ Hey, I'm **Uttam** — a passionate **.NET & Azure Devops Developer/Architect** 
   <img src="https://skillicons.dev/icons?i=dotnet,azure,cs,react,angular,js,html,css,python,vscode,git,github" />
 </p>
 
----
-
----
-
-
----
 
 ## ✨ Quote
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
