@@ -33,15 +33,8 @@ Hey, I'm **Uttam** — a passionate **.NET & Azure Devops Developer/Architect** 
 
 ---
 
-
-
 ---
 
-## 📰 Latest posts
-<!-- This section will be automatically replaced by the GitHub Action (optional) -->
-<!-- START_LATEST_POSTS -->
-_No posts fetched yet — enable the auto-updater action to show your latest Substack posts here._
-<!-- END_LATEST_POSTS -->
 
 ---
 
