@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- Social / contact badges -->
-  <a href="https://iamuttamchaturvedi.substack.com/"><img src="https://img.shields.io/badge/Substack-%23FF671F?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
+  <a href="https://iamuttamchaturvedi.com/"><img src="https://img.shields.io/badge/Substack-%23FF671F?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
   <a href="https://medium.com/@uttamchaturvedi"><img src="https://img.shields.io/badge/Medium-%23121212?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://www.c-sharpcorner.com/myaccount/authorcreatedarticledetails.aspx?Path=registration&iscomplete=true"><img src="https://img.shields.io/badge/C%23Corner-%23007ACC?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Corner" /></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
