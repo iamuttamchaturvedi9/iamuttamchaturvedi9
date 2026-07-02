@@ -17,7 +17,7 @@
 ---
 
 ## 🧑‍💻 About Me
-Hey, I'm **Uttam** — a passionate **Senior Azure Cloud Engineer** with **more than decade** of experience in IT. I build scalable systems, consult on cloud architecture, and write about real-life problems and solutions.
+Hey, I'm **Uttam** — a passionate **Senior Software and Azure Cloud Engineer** with **more than decade** of experience in IT. I build scalable systems, consult on cloud architecture, and write about real-life problems and solutions.
 
 - 💬 Areas: **Azure, AKS, Dveops, · C# · .NET · React · Angular · AI**  
 - 🌐 Website: https://iamuttamchaturvedi.com/  
